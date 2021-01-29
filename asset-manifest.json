@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Ixarwebsite/static/css/main.b5cef012.chunk.css",
+    "main.js": "/Ixarwebsite/static/js/main.d74a00b6.chunk.js",
+    "main.js.map": "/Ixarwebsite/static/js/main.d74a00b6.chunk.js.map",
+    "runtime-main.js": "/Ixarwebsite/static/js/runtime-main.04e5b655.js",
+    "runtime-main.js.map": "/Ixarwebsite/static/js/runtime-main.04e5b655.js.map",
+    "static/css/2.ffda3d49.chunk.css": "/Ixarwebsite/static/css/2.ffda3d49.chunk.css",
+    "static/js/2.34230fc6.chunk.js": "/Ixarwebsite/static/js/2.34230fc6.chunk.js",
+    "static/js/2.34230fc6.chunk.js.map": "/Ixarwebsite/static/js/2.34230fc6.chunk.js.map",
+    "index.html": "/Ixarwebsite/index.html",
+    "static/css/2.ffda3d49.chunk.css.map": "/Ixarwebsite/static/css/2.ffda3d49.chunk.css.map",
+    "static/css/main.b5cef012.chunk.css.map": "/Ixarwebsite/static/css/main.b5cef012.chunk.css.map",
+    "static/js/2.34230fc6.chunk.js.LICENSE.txt": "/Ixarwebsite/static/js/2.34230fc6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Ixarwebsite/static/media/img-home.c034239e.jpg",
+    "static/media/Labled3.1225547b.jpg": "/Ixarwebsite/static/media/Labled3.1225547b.jpg",
+    "static/media/ROV2.0a02a2e8.png": "/Ixarwebsite/static/media/ROV2.0a02a2e8.png",
+    "static/media/ROV4.231d510f.jpg": "/Ixarwebsite/static/media/ROV4.231d510f.jpg",
+    "static/media/RovDetails.fe83f720.jpg": "/Ixarwebsite/static/media/RovDetails.fe83f720.jpg",
+    "static/media/ixar.b4dac550.png": "/Ixarwebsite/static/media/ixar.b4dac550.png",
+    "static/media/soft.9fa8629e.jpg": "/Ixarwebsite/static/media/soft.9fa8629e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04e5b655.js",
+    "static/css/2.ffda3d49.chunk.css",
+    "static/js/2.34230fc6.chunk.js",
+    "static/css/main.b5cef012.chunk.css",
+    "static/js/main.d74a00b6.chunk.js"
+  ]
+}
