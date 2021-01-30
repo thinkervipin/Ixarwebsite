@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Ixarwebsite/static/css/main.b5cef012.chunk.css",
-    "main.js": "/Ixarwebsite/static/js/main.d74a00b6.chunk.js",
-    "main.js.map": "/Ixarwebsite/static/js/main.d74a00b6.chunk.js.map",
+    "main.js": "/Ixarwebsite/static/js/main.09f43bbb.chunk.js",
+    "main.js.map": "/Ixarwebsite/static/js/main.09f43bbb.chunk.js.map",
     "runtime-main.js": "/Ixarwebsite/static/js/runtime-main.04e5b655.js",
     "runtime-main.js.map": "/Ixarwebsite/static/js/runtime-main.04e5b655.js.map",
     "static/css/2.ffda3d49.chunk.css": "/Ixarwebsite/static/css/2.ffda3d49.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.ffda3d49.chunk.css",
     "static/js/2.34230fc6.chunk.js",
     "static/css/main.b5cef012.chunk.css",
-    "static/js/main.d74a00b6.chunk.js"
+    "static/js/main.09f43bbb.chunk.js"
   ]
 }
